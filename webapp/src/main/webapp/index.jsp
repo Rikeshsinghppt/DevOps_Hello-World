@@ -9,7 +9,7 @@ div {text-align: center;}
 <body>
 
 <h1 style="color:blue;"> Hello, Welcome To My DevOps Project  </h1>
-<h1 style="color:red;"> Running on Tomcat server  </h1>
+<h1 style="color:red;"> Running on Ansible server  </h1>
 </body>
 </html>
 
