@@ -19,6 +19,10 @@ div {text-align: center;}
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+
 body {
 padding: 25px;
 background-color: white;
@@ -39,8 +43,9 @@ border: 2px solid green;
 </head>
 <body>
 <button class="toggleButton">Toggle dark mode</button>
-<h1>Toggle Dark/Light Mode Example</h1>
-<h2>Click the above button to toggle dark mode</h2>
+<h1 style="color:red;"> Hello, Welcome To My DevOps-Ansible-Project  </h1>
+<h1 style="color:rgb(240, 9, 47);"> Simple DevOps Application  </h1>
+<h1 style="color:rgb(47, 226, 101);"> Running on Ansible server  </h1>
 <script>
 document
 .querySelector(".toggleButton")
