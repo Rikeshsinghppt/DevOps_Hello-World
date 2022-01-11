@@ -19,17 +19,17 @@ background-color: black;
 color: white;
 }
 .toggleButton {
-padding: 12px;
-font-size: 18px;
-border: 2px solid green;
+padding: 10px;
+font-size: 10px;
+border: 0px solid green;
 }
 </style>
 </head>
 <body>
-<button align: right, class="toggleButton">Toggle dark mode</button>
+<button class="toggleButton">Dark mode</button>
 <h1 style="color:red;"> Hello, Welcome To My DevOps-Ansible-Project  </h1>
 <h1 style="color:rgb(13, 9, 240);"> Simple DevOps Application  </h1>
-<h1 style="color:rgb(47, 226, 101);"> Running on Ansible server  </h1>
+<h1 style="color:rgb(47, 226, 101);"> Running on Ansible server by Ansible Playbook  </h1>
 <script>
 document
 .querySelector(".toggleButton")
