@@ -27,8 +27,8 @@ border: 0px solid green;
 </head>
 <body>
 <button class="toggleButton">Dark mode</button>
-<h1 style="color:red;"> Hello, Welcome To My DevOps-Ansible-Project  </h1>
-<h1 style="color:rgb(13, 9, 240);"> Simple DevOps Application  </h1>
+<h1 style="color:red;"> Hey, Welcome To My DevOps-Ansible-Project  </h1>
+<h1 style="color:rgb(13, 9, 240);"> Simple DevOps Web with Dark & Light Mode  </h1>
 <h1 style="color:rgb(47, 226, 101);"> Running on Ansible server by Ansible Playbook </h1>
 <script>
 document
